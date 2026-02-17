@@ -1,3 +1,16 @@
+---
+
+> **📚 Educational Repository: Docker & Kubernetes Examples**
+>
+> This repository contains comprehensive Docker and Kubernetes examples for learning and reference purposes.
+>
+> **For my original production infrastructure work, see:**
+> - **[DevOps AI Platform](https://github.com/litansh/devops-ai-platform)** - AI-powered infrastructure automation with 12 MCP agents
+> - **[Job Search Pipeline](https://github.com/litansh/jobsearch-pipeline)** - AI automation saving 40+ hours/month on job searching
+> - **[AWS Cleanup Tool](https://github.com/litansh/aws-cleanup)** - Automated cost optimization reducing AWS spend by 30%
+
+---
+
 # The Ultimate Engineer Toolbox <img src="https://www.shareicon.net/data/128x128/2017/04/11/883708_media_512x512.png" alt="YouTube" width="5%" height="5%"> :hammer::wrench:
 
 A Collection of tools, hands-on walkthroughs with source code. <br/>
